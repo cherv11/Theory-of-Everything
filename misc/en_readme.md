@@ -4,8 +4,8 @@ title: Theory of Everything
 lang: ru
 ---
 
-[1]: ../works/ru/PSS
-[2]: ../works/ru/ABIW
+[1]: ../works/en/PSS
+[2]: ../works/en/ABIW
 [ru]: ../ru_readme
 
 [Switch to Russian][ru]
@@ -14,23 +14,12 @@ Looking back at the history of human cilivization, I ask one question all the ti
 
 For all that, I have worked in terrible conditions for more than ten hours a day. I have lost my friends. My father died in 28 November, 2022, aged 73, the same day I understood what actually <veiled/> is. He, as the rest of people around, didn't know anything about what I am working on, but I know he would never forgive me if I stopped, and he would be proud of me. There are seventeen articles in this series, all are devoted to the main sciences and the greatest mysterias of humankind. All this is completely ready and stored in my brain and my notes, and hence it will be published as soon as possible. Here is the list of articles with short annotations:
 
-1. [Probabilistic-Strategic Schemes as the best way to organize information in the Universe][1] <p style="text-align: center; font-style: italic">The unification of the theory of graphs, the theory of sets and the theory of probability. All you want to know about assymetric correlation, the chains of probabilities, and the types of sets, links, and recursions. </p>
-2. [All educational and scientific literature in the world must be rewritten][2] <p style="text-align: center; font-style: italic">Mathematically exact philosophy of science, usage of metaphorical thinking, the solution of the barber (self-reference) paradox, the refutation of the Gödel's incompletness theorems, and new answers to the David Hilbert's questions</p>
-3.
-4.
-5. The standart model of strategical particles <p syle="text-align: center; font-style: italic">A new science unificating economy and the evolution theory, allowing representing any possible idea as a set of particle interactions, or infinite-dimansional function, conducting metaphors between sciences, and being actually the graph dynamics.</p>
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
-17.
+1. [Probabilistic-Strategic Schemes as the best way to organize information in the Universe][1] 
+<p style="text-align: center; font-style: italic">The unification of the theory of graphs, the theory of sets and the theory of probability. All you want to know about assymetric correlation, the chains of probabilities, and the types of sets, links, and recursions. </p>
+2. [All educational and scientific literature in the world must be rewritten][2] 
+<p style="text-align: center; font-style: italic">Mathematically exact philosophy of science, usage of metaphorical thinking, the solution of the barber (self-reference) paradox, the refutation of the Gödel's incompletness theorems, and new answers to the David Hilbert's questions</p>
+5. The standart model of strategical particles 
+<p syle="text-align: center; font-style: italic">A new science unificating economy and the evolution theory, allowing representing any possible idea as a set of particle interactions, or infinite-dimansional function, conducting metaphors between sciences, and being actually the graph dynamics.</p>
 
 As usual, you can support my project at the following link. This will really help me and my family:
 - Donation Alerts: https://www.donationalerts.com/r/cherv11
