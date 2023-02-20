@@ -1,9 +1,3 @@
----
-layout: page
-title: Theory of Everything
-lang: ru
----
-
 [1]: ../works/ru/PSS
 [2]: ../works/ru/ABIW
 [ru]: ../ru_readme
