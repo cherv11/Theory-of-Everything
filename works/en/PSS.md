@@ -53,7 +53,7 @@ But, of course, this is a mistake. If you draw up heatmaps of the schools in the
 
 <p>
     <img class="pimg" src="../../../images/PSS/4.jpg" width=400>
-    <p class="pdesc">Figure 4. Factors which impacts the presence of bulling and the level of grades</p>
+    <p class="pdesc">Figure 4. Factors which impact the presence of bulling and the level of grades</p>
 </p>
 
 $α_i^{w_i}$ object is any subset in the set of all schools containing the information about correlation between the presence of bulling and poor grades. It can be not only a student as a set of grades (this is why we didn't add him), but also a whole school, city, one class, the influence of other students in the school on one or many grades of a particular student, or the certain pair of students — these are different levels of abstraction. Factors influencing a correlation are factors influencing correlating sets: the presence of student's friends and the level of parent's pressure on the students who inclined to bull the others. By identifying these factors, you can make predictions for the level of bulling and the fairness of giving grades in a particular school and, as a result, predict the $w_i$ correlation. This also allows you to identify theorems: there are less poor grades in the schools where students are more friendly; there are more bulling in the schools where the level of parent's pressure is higher.
@@ -80,10 +80,10 @@ Let's count how much the probability of rating bad is increased in comparison wi
     <p class="pdesc">Figure 6. Increase in the probability</p>
 </p>
 
-What the sum of correlations in two directions of one link equals $1$ is a coincidence (it turns out when $\frac{n}{N(A)}+\frac{n}{N(B)} = 1 ⇒ n(N(A)+N(B)) = N(A)*N(B)$, that doesn't have physical sense). But the sum of correlations directed to bulling and non-bulling is a result of a theorem: *the sum of correlations to types from one set equals $1$*. The probability of getting a bad grade is increased by $^2/_9$, but in no case should we convert it to a percentage. Think of how much the probability of $0.9$ will be increased by if we add $0.09$ to it, more precisely, how many times? For that, we need to calculate how many times it decreased by relative to one. From the law of waning usefulness (see below) follows:
+What the sum of correlations in two directions of one link equals $1$ is a coincidence (it turns out when $\frac{n}{N(A)}+\frac{n}{N(B)} = 1 ⇒ n(N(A)+N(B)) = N(A)\*N(B)$, that doesn't have physical sense). But the sum of correlations directed to bulling and non-bulling is a result of a theorem: *the sum of correlations to types from one set equals $1$*. The probability of getting a bad grade is increased by $^2/\_9$, but in no case should we convert it to a percentage. Think of how much the probability of $0.9$ will be increased by if we add $0.09$ to it, more precisely, how many times? For that, we need to calculate how many times it decreased by relative to one. From the law of waning usefulness (see below) follows:
 
 <p style="font-size: 24px; text-align: center">
-$κ_A^B = \frac{1-r_{\overset{—}{B}A}}{1-r_{BA}} = \frac{^5⁄_9}{^1⁄_3} = \frac{5}{3}$  или $166.(6)%$
+$κ_A^B = \frac{1-r_{\overset{—}{B}A}}{1-r_{BA}} = \frac{^5⁄_9}{^1⁄_3} = \frac{5}{3}$ or $166.(6)%$
 </p>
 
 This is called *efficiency from inclusion of $B$ into $A$*, or *contribution of $B$ for $A$* (denoted by the Greek letter kappa). Equal probabilities impacts equal contribution, and the physical meaning for the $≥ 1$ values of the contribution is: for each $κ_A^B$ events of $A$ there are $κ_A^B-1$ events that don't depend on $B$, and one that does. For each $5$ grades $2$ depends on bulling. But our efficiency is a bit... negative. Bulling is a negative phenomenon, and it's no coincidence that I tied it to poor grades and friendship to good grades. The negative phenomenon always has positive correlation with negative phenomenons, but the laws of efficiency are the same. 
@@ -133,14 +133,14 @@ And vice versa, to calculate one exact value of the contribution between two set
 
 <p style="text-align: center">$ρ_1=0.45*2=0.9; ρ_2=0.5*1.75=0.875; ρ_3=0.05*15=0.75$</p>
 
-Nothing. Any experienced player will tell you that $15x$ on green is very little. The potential to change your positive balance in the pocket $A$ is negative. This literally means if you place $10$ bets on red, you will get $9$ back. In the system in the figure $12$ there is a function of advancing the balance and the money you won. The probability $^3/_7$ means that for each $7$ dollars $3$ puts in your wallet (and $4$ covers the costs of the bet). The losses do not correlate with the function of advancing the balance. Let's use the formula of calculating the contribution:
+Nothing. Any experienced player will tell you that $15x$ on green is very little. The potential to change your positive balance in the pocket $A$ is negative. This literally means if you place $10$ bets on red, you will get $9$ back. In the system in the figure $12$ there is a function of advancing the balance and the money you won. The probability $^3/\_7$ means that for each $7$ dollars $3$ puts in your wallet (and $4$ covers the costs of the bet). The losses do not correlate with the function of advancing the balance. Let's use the formula of calculating the contribution:
 
 <p>
     <img class="pimg" src="../../../images/PSS/12.jpg" width=400>
     <p class="pdesc">Figure 12. Wagers of the roulette</p>
 </p>
 
-To have a gain in this roulette betting on random color (with the probability of $^1/_3$ each) you need the sum of all risks to be more than $1$. If we change the coefficient only for the green field, each $30$ bets will win you $9+8.75+x=30$ when the sum of the risks equals $1$. Yes, I accidentally invented mathematical expectation and called it *the coefficient of fortune of the system $A$*:
+To have a gain in this roulette betting on random color (with the probability of $^1/\_3$ each) you need the sum of all risks to be more than $1$. If we change the coefficient only for the green field, each $30$ bets will win you $9+8.75+x=30$ when the sum of the risks equals $1$. Yes, I accidentally invented mathematical expectation and called it *the coefficient of fortune of the system $A$*:
 
 <p style="text-align: center">$K_A^f = \displaystyle\sum_{i:0 < r_{iA} < 1}{ρ_A^i}$</p>
 
