@@ -78,7 +78,7 @@ And ate a sandwich without bread.<br>
 *Well, if we defined the metaphor and the irony, considered all the options, we can conclude that the most exact definition of a toast is a bread and something eatable:*
 
 <p>
-    <img class="pimg" src="../../../images/ABIW/3.jpg" width=400>
+    <img class="pimg" src="../../../images/ABIW/3.jpg" width=600>
     <p class="pdesc">Figure 3. The definition of a toast</p>
 </p>
 
