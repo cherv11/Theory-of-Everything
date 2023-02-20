@@ -16,9 +16,9 @@ lang: en
 
 Anything that can have definition is a logic object. Anything is a logic object, therefore. But when we say «apple», it has many possible meanings:
 
-1) The apple is on the table;
-2) There are bones in the apple;
-3) The eyeball (Russian: eye apple) absorbs light;
+1) The apple is on the table;  
+2) There are bones in the apple;  
+3) The eyeball (Russian: eye apple) absorbs light;      
 
 In the first case, we talk about a certain apple in the set of objects located on the table. In the second, we think about every apple in the Universe. In the last case the eye is an apple metaphor, which has the same *meta*, and the definition of this meta is something spherical. This way we can visualize it:
 
@@ -52,7 +52,7 @@ We may count all correlations between bulling and different grades, but one is e
 But, of course, this is a mistake. If you draw up heatmaps of the schools in the country by factors which are presumably related with the presence of bulling and the level of grades, you will get about the following:
 
 <p>
-    <img class="pimg" src="../../../images/PSS/4.jpg" width=400>
+    <img class="pimg" src="../../../images/PSS/4.jpg" width=500>
     <p class="pdesc">Figure 4. Factors which impact the presence of bulling and the level of grades</p>
 </p>
 
@@ -91,7 +91,7 @@ This is called *efficiency from inclusion of $B$ into $A$*, or *contribution of 
 To be honest, talking about efficiency in relation to grades is a bit incorrect. For that we need a *function* (see [nouns of process][7]), learning is great, for example. Learning has an efficiency. But still efficiency of the process is the probability of occurrence of an object. If there are many probabilities impacting the object, the total probability calculates by *the law of waning usefulness*, which follows from regularities of binomial coefficients:
 
 <p>
-    <img class="pimg" src="../../../images/PSS/7.jpg" width=400>
+    <img class="pimg" src="../../../images/PSS/7.jpg" width=600>
     <p class="pdesc">Figure 7. Probability of occurrence of an object</p>
 </p>
 
@@ -105,7 +105,7 @@ But there is a little paradox. Negative correlation increases the probability of
 To describe the system as a whole, without decomposition, there is *the bipolar efficiency equation*:
 
 <p>
-    <img class="pimg" src="../../../images/PSS/9.jpg" width=400>
+    <img class="pimg" src="../../../images/PSS/9.jpg" width=600>
     <p class="pdesc">Figure 9. Strange system</p>
 </p>
 
@@ -119,7 +119,7 @@ Such system is called *strange* (see [fear][6]). Here are the entire chains of u
 Of course, the probability of the chain without nodes equals the product of the probabilities. Oddly enough, no matter how many nodes you have, you can calculate any contribution, provided that you know the size of a sample:
 
 <p>
-    <img class="pimg" src="../../../images/PSS/11.jpg" width=400>
+    <img class="pimg" src="../../../images/PSS/11.jpg" width=600>
     <p class="pdesc">Figure 11. The contribution in known system</p>
 </p>
 
@@ -136,7 +136,7 @@ And vice versa, to calculate one exact value of the contribution between two set
 Nothing. Any experienced player will tell you that $15x$ on green is very little. The potential to change your positive balance in the pocket $A$ is negative. This literally means if you place $10$ bets on red, you will get $9$ back. In the system in the figure $12$ there is a function of advancing the balance and the money you won. The probability $^3/\_7$ means that for each $7$ dollars $3$ puts in your wallet (and $4$ covers the costs of the bet). The losses do not correlate with the function of advancing the balance. Let's use the formula of calculating the contribution:
 
 <p>
-    <img class="pimg" src="../../../images/PSS/12.jpg" width=400>
+    <img class="pimg" src="../../../images/PSS/12.jpg" width=600>
     <p class="pdesc">Figure 12. Wagers of the roulette</p>
 </p>
 
@@ -172,11 +172,11 @@ Find a correlation between the bulling and the grades. An absurd idea: some novi
 Let's consider the more general case. In the figure below, $μ$ is infinitesimally correlation appearing when we divide objects into an abstract types by some parameter (see [nouns of patterns and adjectives][6]). The amount of items of different colors equals conditional infinity ($\dot{∞}$), and the correlation from it equals $\underset{—}{\overset{—}{\dot{∞}}}$. The correlation calculates by the triangle rule similar to the vector sum. In a particular example, $γ$ is also equal to $\underset{—}{\overset{—}{\dot{∞}}}$ (see [more about $\dot{∞}$ and $\underset{—}{\overset{—}{\dot{∞}}}$ signs][11]). Notice that the $β_i$ probabilities are prior:
 
 <p>
-    <img class="pimg" src="../../../images/PSS/14.jpg" width=400>
+    <img class="pimg" src="../../../images/PSS/14.jpg" width=600>
     <p class="pdesc">Figure 14. The triangle of correlations</p>
 </p>
 
-Let's call the links with correlations equal to $1$ to the both directions *stable*, to the one direction *half-stable*, and not in any direction *unstable*. Let's also introduce the notation of link: $l_{ij}=r_{ij}|r_{ji}$. Multiplication is working for the triangle of half-stable links. There is the general case for the triangle of unstable links too:
+Let's call the links with correlations equal to $1$ to the both directions *stable*, to the one direction *half-stable*, and not in any direction *unstable*. Let's also introduce the notation of link: $l_{ij}=r_{ij}\|r_{ji}$. Multiplication is working for the triangle of half-stable links. There is the general case for the triangle of unstable links too:
 
 <p>
     <img class="pimg" src="../../../images/PSS/15.jpg" width=400>
@@ -186,7 +186,7 @@ Let's call the links with correlations equal to $1$ to the both directions *stab
 The correlation that is close to $1$ points to the probabilistic mistake of division or exclusion (see below): the objects in the basket are included into the set of apples, the grades are included in the set of the school. But this "mistakes" can be used to differentiate the sets:
 
 <p>
-    <img class="pimg" src="../../../images/PSS/16.jpg" width=400>
+    <img class="pimg" src="../../../images/PSS/16.jpg" width=600>
     <p class="pdesc">Figure 16. The intersection of three sets</p>
 </p>
 
@@ -200,7 +200,7 @@ The amount of sets is equal to known $2^n-1$, but behind the formula of the amou
 Different colors indicate the sets and links with different order. The number of order of the set is the amount of initial sets which this set intersects. The number of the order of the link is the larger of the orders of two sets it is connected to. The initial sets (blue) are $1$-order and has $\frac{n(n-1)}{2}=C_n^2=6$ $1$-order links among themselves. The amount of higher-order sets and links obeys the following regularity:
 
 <p>
-    <img class="pimg" src="../../../images/PSS/18.jpg" width=400>
+    <img class="pimg" src="../../../images/PSS/18.jpg" width=600>
     <p class="pdesc">Figure 18. Quasi orbital numbers</p>
 </p>
 
@@ -208,15 +208,15 @@ $56$ links total. The physical sense is: in the $n$ line of the Pascal's triangl
 
 This means there is $56$ *quanta*, the $1$-length thoughts, binding $4$ unstable sets. They can be divided into categories:
 
-1) $A$ is related to $B$ — $A\sim{B}$ (the $1$-order correlation);
-2) The part of $A$ is $B$ — $A⊃B$ (increasing correlation from $n$-order to $n+k$-order set);
+1) $A$ is related to $B$ — $A\sim{B}$ (the $1$-order correlation);  
+2) The part of $A$ is $B$ — $A⊃B$ (increasing correlation from $n$-order to $n+k$-order set);  
 3) $A$ is a part of $B$ — $A⊂B$ (decreasing correlation from $n+k$-order to $n$-order set).
 
 Number $56$ is the amount of links in a complete set of truthful conclusions we can make from the initial sets. The *conclusion* is the creation of new link. The $n$-order conclusion makes $n$-order links:
 
-1) $∃x: x∈A, x∈B ⇒ A\sim{B}$ — $1$-order conclusion;
-2) $A\sim{B} ⇒ ∃D: D⊂B, D ⊂А$ — $2$-order conclusion;
-3) $D=A∩B, E=A∩C, F=B∩C ⇒ ∃G: G⊂D, G⊂E, G⊂F$ — $3$-order conclusion.
+1) $∃x: x∈A, x∈B ⇒ A\sim{B}$ — $1$-order conclusion;  
+2) $A\sim{B} ⇒ ∃D: D⊂B, D ⊂А$ — $2$-order conclusion;  
+3) $D=A∩B, E=A∩C, F=B∩C ⇒ ∃G: G⊂D, G⊂E, G⊂F$ — $3$-order conclusion.  
 $3$ missing $3$-order links makes as follows: $D⊂А, G⊂D ⇒ G⊂A$.  
 
 And so on. The series of numbers with amounts of possible conclusions from $n$ sets is growing very rapidly: $\{3,15,56,190,617,1953,6078,18696,57047,173107,523316,1578018,4750293,…\}$, and that's just the simplest thoughts.
@@ -237,9 +237,9 @@ There are not all possible links created in our system. For $n=3$, $C_{2^n-1}^2-
     <p class="pdesc">Figure 20. False links</p>
 </p>
 
-False links make creation mistakes. In addition, the creation mistake can be an increased correlation. If the pair of correlations becomes half-stable $1|\overset{—}{k}$ ($\overset{—}{k}$ means $0\le n \le1$) instead of $\overset{—}{n}|\overset{—}{k}$, this will be an inclusion mistake. The transformation in reverse order is an exclusion mistake. The questions can define the type of the mistake are «Which type of link?» and «What happened?», and possible answers are the first column and row of the table, respectively.
+False links make creation mistakes. In addition, the creation mistake can be an increased correlation. If the pair of correlations becomes half-stable $1\|\overset{—}{k}$ ($\overset{—}{k}$ means $0\le n \le1$) instead of $\overset{—}{n}\|\overset{—}{k}$, this will be an inclusion mistake. The transformation in reverse order is an exclusion mistake. The questions can define the type of the mistake are «Which type of link?» and «What happened?», and possible answers are the first column and row of the table, respectively.
 
-The $1|1$ link is a fusion mistake if it is false, $0|0$ is likewise division mistake. The fusion mistake made from $\overset{—}{n}|\overset{—}{k}$ is called *stereotype*. «All Italians eat pizza» is false, because there are Italians who don't like it and non-Italians who do. Now we fixed two inclusion mistakes. Actually, stereotypes are [stereopatterns][7] (it's a pun).
+The $1\|1$ link is a fusion mistake if it is false, $0\|0$ is likewise division mistake. The fusion mistake made from $\overset{—}{n}\|\overset{—}{k}$ is called *stereotype*. «All Italians eat pizza» is false, because there are Italians who don't like it and non-Italians who do. Now we fixed two inclusion mistakes. Actually, stereotypes are [stereopatterns][7] (it's a pun).
 
 Mistakes can be made not only by false conclusions (for example, in the result of [madness][6]), but also by gaining experience. Let's consider an example (there will be one more below).
 
@@ -308,10 +308,10 @@ Accordingly, the Probabilistic-Strategic Schemes are the combination of stable a
 
 PSS has many properties of perception neural networks with its own differences:
 
-1) Despite the chaotic, the direction of time is explicitly stated and can be reversed;
-2) Any group of neurons can be comprehended as a set (hence *neuron* is an atom of the information system);
-3) Any sets can be linked, and the connections or the memory of its absence is what creates the experience; 
-4) It seems like creation of static network solving problems, like text recognition in a photo, is a simple task: you have to define a system of distinguishing different symbols, the rules of reading, and also create [*the focus algorithm*][15]: find what is a text, divide it into paragraphs, find the first line and the first letter;
+1) Despite the chaotic, the direction of time is explicitly stated and can be reversed;  
+2) Any group of neurons can be comprehended as a set (hence *neuron* is an atom of the information system);  
+3) Any sets can be linked, and the connections or the memory of its absence is what creates the experience;   
+4) It seems like creation of static network solving problems, like text recognition in a photo, is a simple task: you have to define a system of distinguishing different symbols, the rules of reading, and also create [*the focus algorithm*][15]: find what is a text, divide it into paragraphs, find the first line and the first letter;  
 5) To solve more difficult tasks, like estimation of probabilities of scenarios of the future, meaningful speech, and solving everyday problems, you need [*the algorithms of thinking*][15], requiring much more power.  
 
 I think that besides combining several branches of mathematics and logic, PSS combine different thickness graphs and the way of thinking which is using by detectives to investigate crimes in cool films (and not just), when they hang photos and notes crossed by red threads.
@@ -343,7 +343,7 @@ And already inside this function the direction of time can be set, what makes [f
 
 In this part, I want to ask professionals and interested people questions which are important to answer.
 
-1) It is known that to solve tasks facing PSS, analog computers can be used. Digital computers took its attention because of better applicability to the tasks of the mid-20th century, but now analog computers are encouraging and multitasking. How can we specify operations described in the article on analog computer? Can we operate the sets, in other words, make a Turing machine, using only an analog computer? How can the effect of accumulation of measurement errors can be minimized?
-2) Can we merge analog and digital computers? How this system will be organized? How the command transmission from one computer to another will be organized? By the way, can video cards accelerate analog calculations, and if they can, how much?
-3) What minimal power is tentatively needed to make systems described in paragraphs 4 and 5 of the list of differences from neural networks on a computer?
+1) It is known that to solve tasks facing PSS, analog computers can be used. Digital computers took its attention because of better applicability to the tasks of the mid-20th century, but now analog computers are encouraging and multitasking. How can we specify operations described in the article on analog computer? Can we operate the sets, in other words, make a Turing machine, using only an analog computer? How can the effect of accumulation of measurement errors can be minimized?  
+2) Can we merge analog and digital computers? How this system will be organized? How the command transmission from one computer to another will be organized? By the way, can video cards accelerate analog calculations, and if they can, how much?  
+3) What minimal power is tentatively needed to make systems described in paragraphs 4 and 5 of the list of differences from neural networks on a computer?  
 4) How can we use different algorithms of graph optimization here? What other laws of statistics are applicable to PSS?
