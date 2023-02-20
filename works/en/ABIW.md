@@ -12,7 +12,6 @@ lang: en
 [15]: ../TMBM
 [16]: ../SQM
 [17]: ../ATQ
-[Mukha]: https://rustih.ru/renata-muxa-stoyala-ploxaya-pogoda/
 [NASA alien spaceship]: https://eol.jsc.nasa.gov/SearchPhotos/photo.pl?mission=STS088&roll=724&frame=66
 [Explanations for Long Delayed Echoes]: https://www.mn.uio.no/fysikk/english/people/aca/sverre/articles/lde.html
 [STS88 debris downlink excerpt]: https://www.youtube.com/watch?v=6omlycVMOcw
@@ -72,7 +71,7 @@ It was bad weather.<br>
 The sky was frowning angrily.<br>
 A man was walking through the city<br>
 And ate a sandwich without bread.<br>
-([R. G. Mukha][Mukha])
+(R. G. Mukha)
 </p>
 
 *Well, if we defined the metaphor and the irony, considered all the options, we can conclude that the most exact definition of a toast is a bread and something eatable:*
@@ -159,7 +158,7 @@ The human civilization tried many times to create the systems to describe everyt
     <p class="pdesc">Figure 6. Gödel's system </p>
 </p>
 
-To denote the number $2$ you should use the $ss0$ statement, which is equivalent to $2^7*3^7*5^6=4,374,000,000$. This way we can denote any formula. Here is the Giuseppe Peano's third axiom: $¬(sx=0) = 2^1*3^8*5^7*7^13*11^5*13^6*17^9 =$ $something with 43 numbers$. This is the number of this axiom in Gödel's system. The proof of any theorem looks horrible in numerical equivalent, but we need this system only as a concept. Then, we say that some numbers can be denoted by letters $a,b,c$, and so on. Thus, there is the number $g$ that means «There is no proof for the statement with Gödel number $g$». To represent this statement logically, Kurt showed that Gödel numbers can denote a paradoxical self-referential statement («This statement is false»). This way he proved the theorem of incompleteness. And I'm going to disprove it.
+To denote the number $2$ you should use the $ss0$ statement, which is equivalent to $2^7\*3^7\*5^6=4,374,000,000$. This way we can denote any formula. Here is the Giuseppe Peano's third axiom: $¬(sx=0) = 2^1\*3^8\*5^7\*7^13\*11^5\*13^6\*17^9 =$ $something with 43 numbers$. This is the number of this axiom in Gödel's system. The proof of any theorem looks horrible in numerical equivalent, but we need this system only as a concept. Then, we say that some numbers can be denoted by letters $a,b,c$, and so on. Thus, there is the number $g$ that means «There is no proof for the statement with Gödel number $g$». To represent this statement logically, Kurt showed that Gödel numbers can denote a paradoxical self-referential statement («This statement is false»). This way he proved the theorem of incompleteness. And I'm going to disprove it.
 
 If I'm going to explain everything at all, I need to explain how the formal systems structured. Let me introduce *The caterpillar of formality*:
 
@@ -236,7 +235,7 @@ The paradoxes of the real systems are also solvable by looking from different an
 
 If there is a set of all sets, it must contain itself. Then, it is also included into the set of all sets containing themselves. Let there be a set of all sets not containing themselves. Then, this set both contains and does not contain itself.
 
-If you read [the first article][1] carefully, you can guess. Every set contains itself by the definition. If $A⊂B$, and $B\A=∅$, then $A=B$. The set of all sets contains all the sets, because it contains all objects can be united into a set. The $⊂$ and $∈$ are the same. The set of all sets containing themselves is actually the set of all sets, and it contains itself. Thus, the set of all sets not containing themselves is empty. And it doesn't contain itself, because the set containing only the empty set is empty. Because sets does not exist, only the objects.
+If you read [the first article][1] carefully, you can guess. Every set contains itself by the definition. If $A⊂B$, and $B\\A=∅$, then $A=B$. The set of all sets contains all the sets, because it contains all objects can be united into a set. The $⊂$ and $∈$ are the same. The set of all sets containing themselves is actually the set of all sets, and it contains itself. Thus, the set of all sets not containing themselves is empty. And it doesn't contain itself, because the set containing only the empty set is empty. Because sets does not exist, only the objects.
 
 This way we can also solve the barber paradox, which is a daily life interpretation of the self-reference paradox. If the barber both should and can't shave himself, his existence is controversial. And if there is no barber, all people in the village shave themselves.
 
@@ -262,7 +261,7 @@ Gödel used a function returning is the statement provable to create the number 
 
 You can prove the provability of everything, but not the improvability of anything, without answering this question. And with it too! Think of: if you know there is an insoluble problem, what makes you think that a certain problem is insoluble? To prove the undecidability means to prove the paradox, and then the system requires changing of axioms to make all provable. The system aims to a full provability. And this question makes sense only if the answer is «true». 
 
-Moreover, there's no need to use two continuums of words. To prove or disprove means to determine the lie or the truth, and before this moment the validity is unknown. If the truth is the series of statements without mistakes, any paradox is a lie, but it can be proved: $2^{x^0=1}*3^{0^x=0}*5^{0^0=1}*7^{0^0=0}*11^{1=0}$ (The disadvantage of Gödel system is in the absence of the signs for a consequence of several statements and a contradiction). We determined the truth that this is false. This paradox contradicts the axiom defining the operator of equality. Hence, this statement (this series of stable links uniting both functions with a zero) does not belong to the reality of arithmetic. And until we determine the truth, the value of $0^0$ is actually undefined.  
+Moreover, there's no need to use two continuums of words. To prove or disprove means to determine the lie or the truth, and before this moment the validity is unknown. If the truth is the series of statements without mistakes, any paradox is a lie, but it can be proved: $2^{x^0=1}\*3^{0^x=0}\*5^{0^0=1}\*7^{0^0=0}\*11^{1=0}$ (The disadvantage of Gödel system is in the absence of the signs for a consequence of several statements and a contradiction). We determined the truth that this is false. This paradox contradicts the axiom defining the operator of equality. Hence, this statement (this series of stable links uniting both functions with a zero) does not belong to the reality of arithmetic. And until we determine the truth, the value of $0^0$ is actually undefined.  
 
 And the Gödel paradox does the same! $g=$ «There is no proof for the statement with Gödel number $g$». This is wrong! If you can prove $g$, this means $g≠ <⋯>$, and it is equal to something else. «There is a proof of $g$» $≠$ «There is no proof of $g$». If you disprove $g$, it will be the same! «There is a proof, that there is no proof, that there is no proof...». This mistake occurred because the function received $g$ and returned the improvability of $g$, had no idea about what is $g$. The function just didn't have a bijection. Kurt Gödel broke an axiomatic of his own system and entangled mathematicians for almost a hundred years.
 
