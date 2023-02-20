@@ -235,7 +235,7 @@ The paradoxes of the real systems are also solvable by looking from different an
 
 If there is a set of all sets, it must contain itself. Then, it is also included into the set of all sets containing themselves. Let there be a set of all sets not containing themselves. Then, this set both contains and does not contain itself.
 
-If you read [the first article][1] carefully, you can guess. Every set contains itself by the definition. If $A⊂B$, and $B$\\$A=∅$, then $A=B$. The set of all sets contains all the sets, because it contains all objects can be united into a set. The $⊂$ and $∈$ are the same. The set of all sets containing themselves is actually the set of all sets, and it contains itself. Thus, the set of all sets not containing themselves is empty. And it doesn't contain itself, because the set containing only the empty set is empty. Because sets does not exist, only the objects.
+If you read [the first article][1] carefully, you can guess. Every set contains itself by the definition. If $A⊂B$, and $B$ \\ $A=∅$, then $A=B$. The set of all sets contains all the sets, because it contains all objects can be united into a set. The $⊂$ and $∈$ are the same. The set of all sets containing themselves is actually the set of all sets, and it contains itself. Thus, the set of all sets not containing themselves is empty. And it doesn't contain itself, because the set containing only the empty set is empty. Because sets does not exist, only the objects.
 
 This way we can also solve the barber paradox, which is a daily life interpretation of the self-reference paradox. If the barber both should and can't shave himself, his existence is controversial. And if there is no barber, all people in the village shave themselves.
 
