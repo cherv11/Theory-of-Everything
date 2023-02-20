@@ -17,7 +17,7 @@ I. [Probabilistic-Strategic Schemes as the best way to organize information in t
 
 II. [All educational and scientific literature in the world must be rewritten][2] 
 
-<p style="text-align: center; font-style: italic">Mathematically exact philosophy of science, usage of metaphorical thinking, the solution of the barber (self-reference) paradox, the refutation of the Gödel's incompleteness theorems, and new answers to the David Hilbert's questions</p>
+<p style="text-align: center; font-style: italic">Mathematically exact philosophy of science, usage of metaphorical thinking, the solution of the barber (self-reference) paradox, the refutation of Gödel's incompleteness theorems, and new answers to David Hilbert's questions</p>
 
 V. The standard model of strategical particles
 
