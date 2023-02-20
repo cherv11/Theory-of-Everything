@@ -4,7 +4,7 @@
 [ru]: https://cherv11.github.io/Theory-of-Everything/misc/ru_readme
 [DA]: https://www.donationalerts.com/r/cherv11
 
-[The site][site]
+[Go to the website][site]  
 [Switch to Russian][ru]
 
 Looking back at the history of human civilization, I ask one question all the time: «And why didn't we think of it before?» Everything turned out to be so simple, that it's hard to believe, but it was extremely difficult to do that. I decided to announce the discovery only after fifteen thousand hours of collecting and processing information from the Internet and my own mind. For move than five years I have been looking for and discovering the methods of improving thinking, smoothly turning from psychology and cognitive science to history and narratology. I have found many lost regularities of ancient Greek culture and recreated many mathematical and philosophical conflicts. And also I am a... programmer. There are not many sources in my works, because the main source for me is popular science videos from YouTube, and the most of the information have been stored in my memory as concepts for years. The works were written in popular-scientific style: they use clear comparisons, cultural memes, and they explain complex things with simple language. It is because I am confident that everybody should read this works, even if he doesn't want to go through complicated formulas.
