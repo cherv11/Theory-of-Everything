@@ -176,7 +176,7 @@ Let's consider the more general case. In the figure below, $μ$ is infinitesimal
     <p class="pdesc">Figure 14. The triangle of correlations</p>
 </p>
 
-Let's call the links with correlations equal to $1$ to the both directions *stable*, to the one direction *half-stable*, and not in any direction *unstable*. Let's also introduce the notation of link: $l_{ij}=r_{ij}\|r_{ji}$. Multiplication is working for the triangle of half-stable links. There is the general case for the triangle of unstable links too:
+Let's call the links with correlations equal to $1$ to the both directions *stable*, to the one direction *half-stable*, and not in any direction *unstable*. Let's also introduce the notation of link: $l\_{ij}=r\_{ij}\|r\_{ji}$. Multiplication is working for the triangle of half-stable links. There is the general case for the triangle of unstable links too:
 
 <p>
     <img class="pimg" src="../../../images/PSS/15.jpg" width=400>
